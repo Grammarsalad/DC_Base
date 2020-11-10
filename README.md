@@ -1,3 +1,3 @@
-# Spelljammer_Alpha
+# DC_Base
 
-Spell Jammer Alpha is a Dungeon Craft module that 
+A base for rules specific DC modules 
