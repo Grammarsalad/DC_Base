@@ -156,6 +156,7 @@ SkillAdjBaseclass = ClimbWalls,thief,+0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30
 SkillAdjBaseclass = ReadLanguages,thief,+0,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94,94
 SkillAdjAbility = ReadLanguages,Intelligence,%,0,0,0,0,0,0,0,0,90,95,100,100,100,100,100,100,105,110,115,115,115,115,115,115,115
 SkillAdjAbility = PickPockets,Dexterity,%0,0,0,0,0,0,0,0,85,90,95,100,100,100,100,100,105,110,115,115,115,115,115,115,115
+SkillAdjAbility = HearNoise,Wisdom,%0,0,0,0,0,0,0,0,85,90,95,100,100,100,100,100,105,110,115,115,115,115,115,115,115
 SpellBonusAbility = Charisma
 BonusSpells = 13,1,1
 BonusSpells = 14,0,1
