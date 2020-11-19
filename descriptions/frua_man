@@ -1,0 +1,253 @@
+Cleric SpellsEdit
+First-Level Cleric SpellsEdit
+Bless improves the THAC0 of friendly characters by 1. Bless cannot affect characters who are adjacent to monsters when the spell is cast, and the spell is not cumulative. This is a good spell to cast before going into combat.
+
+Curse reduces the THAC0 of targets by 1. The target cannot be adjacent to a party character or NPC, and effects are not cumulative.
+
+Cause Light Wounds inflicts 1-8 hit points of damage on a target.
+
+Cure Light Wounds heals 1-8 hit points, up to the target's normal maximum hit points.
+
+Detect Magic indicates which equipment or treasure items are magical. After casting the spell, view a character's items list or take treasure items list. The equipment or treasure preceded by an '*' is magical,
+
+Protection from Evil improves the AC and saving throws of the target by 2 against attackers of evil alignment. The effects of the spell are not cumulative.
+
+Protection from Good improves the AC and saving throws of the target by 2 against attackers of good alignment. The effects of the spell are not cumulative. Resist Cold halves damage from cold attacks and improves saving throws vs. cold attacks by 3.
+
+Second-Level Cleric SpellsEdit
+Find Traps indicates the presence of traps in the party's path.
+
+Hold Person may paralyze targets of character types (human, dwarf, etc.). You may aim a hold person spell at up to 3 targets (use the EXIT command to target fewer).
+
+Resist Fire halves damage from fire attacks and improves saving throws vs. fire attacks by 3.
+
+Silence 15' Radius magically dampens all sound in the area around the target. The target character or monster, and all adjacent, cannot cast spells for the duration of the spell.
+
+Slow Poison revives a poisoned person for the duration of the spell.
+
+Snake Charm paralyzes as many hit points of snakes as the cleric has hit points.
+
+Spiritual Hammer creates a temporary magic hammer that is automatically readied. It can be thrown and does normal hammer damage. Spiritual hammers can hit monsters that may only be struck by magical weapons.
+
+
+Third-Level Cleric SpellsEdit
+Bestow Curse reduces the target's THAC0 and saving throws by 4.
+
+Cause Blindness will blind one target. This can only be cured by a cure blindness spell.
+
+Cure Blindness counters the effects of cause blindness and power word blind.
+
+Cause Disease infects the target with a debilitating ailment that saps strength and hit points.
+
+Cure Disease removes the effects of disease caused by some monsters or cause disease.
+
+Dispel Magic removes the effects of spells that do not have specific counter spells. This is the cure spell for any characters that have been held, slowed or made nauseous.
+
+Prayer improves the THAC0 and saving throws of friendly characters by 1 and reduces the THAC0 and saving throws of monsters by 1. This is a good spell to cast before going into combat, but it is not cumulative.
+
+Remove Curse removes the effects of bestow curse and allows the target to unready cursed magic items.
+
+
+Fourth-Level Cleric SpellsEdit
+Cause Serious Wounds inflicts 3-17 hit points of damage on a target.
+
+Cure Serious Wounds heals 3-17 hit points, up to the target's normal maximum hit points.
+
+Neutralize Poison counteracts all toxins and revives a poisoned person.
+
+Poison causes the target to save versus poison or die.
+
+Protection from Evil 10' Radius can be cast on a character or a monster and improves the AC and saving throws of the target and all adjacent friendly characters by 2 against evil attackers. The effects of this spell are not cumulative.
+
+Sticks to Snakes causes a distracting mass of snakes to irritate the target. The snakes will make movement and spell casting impossible for the duration of the spell. Powerful creatures may ignore the created snakes.
+
+
+Fifth-Level Cleric SpellsEdit
+Cause Critical Wounds inflicts 6-27 hit points of damage on a target.
+
+Cure Critical Wounds heals 6-27 hit points of damage, up to a target's normal maximum hit points.
+
+Dispel Evil improves the target's AC by 7 versus summoned evil creatures for the duration of the spell, or until the target hits a summoned creature. The creature must make a saving throw when it is hit or be dispelled.
+
+Flame Strike allows the cleric to call a column of fire down from the heavens onto a target. The spells does 6-48 points of damage to any target that fails its saving throw.
+
+Raise Dead can bring back to life one (non-elf) character. The chances for success are based on the character's constitution and how long the character has been dead. The raised character will have 1 hit point and will lose 1 point of constitution.
+
+Slay Living is a reversal of the Raise Dead Spell and will kill one target. If the target makes its saving throw, then it suffers 3-17 hit points of damage.
+
+
+Sixth-Level Cleric SpellsEdit
+Blade Barrier creates a whirling circle of razor sharp blades. Any who enter the circle suffer 8-64 points of damage.
+
+Heal cures all diseases, blindness, feeblemindedness, and all except 1-4 of a character's full hit points.
+
+Harm inflicts terrible damage on any living creature - leaving only 1-4 hit points.
+
+Seventh-Level Cleric SpellsEdit
+Destruction causes the target of the spell to die instantly without a saving throw. Creatures with magic resistance may not be affected.
+
+Energy Drain steals life energy away from the target. This is similar to the attack of undead creatures such as wights.
+
+Resurrection is similar to raise dead, except that it also restores all hit points.
+
+Restoration returns life energy stolen by energy drain or the attacks of such undead as wights.
+
+
+Druid SpellsEdit
+First-Level Druid SpellsEdit
+Detect Magic indicates which equipment or treasure items are magical. After casting the spell, view a character's items list or take treasure items list. The equipment or treasure preceded by an '*' is magical.
+
+Entangle causes plants to grow and entwine around the feet of any creature in the area of effect. Be careful not to catch allies in the spell area.
+
+Faerie Fire rings a targeted creature in magical light. This spell will outline otherwise invisible targets and give a +2 THAC0 bonus to anyone attacking an affected creature.
+
+Invisibility to Animals makes the target invisible to non-magical, low or non-intelligent animals. This spell does not offer protection against intelligent opponents or magical creatures.
+
+Second-Level Druid SpellsEdit
+Barkskin causes the target's skin to become tougher and harder to damage. The tough skin improves AC by 1. This is a good spell to cast before combat.
+
+Charm Person or Mammal changes the target's allegiance in combat so that an opponent will fight for the caster's side. It affects character types (human, dwarf, etc.) and other mammals.
+
+Cure Light Wounds heals 1-8 hit points, up to the target's normal maximum hit points.
+
+
+Third-Level Druid SpellsEdit
+Cure Disease removes the effects of diseases caused by some monsters or cause disease.
+
+Hold Animal is similar to the cleric spell hold person, except that only normal and giant-sized animals are affected. This spell does not affect monsters or NPCs.
+
+Neutralize Poison revives a poisoned person.
+
+Protection from Fire has different effects depending on the recipient. If cast on the druid, the spell absorbs 12 hit points times the caster's level in fire damage. The spell dissipates when the damage limit is reached. If cast on another character, the spell is identical to the clerical resist fire spell.
+
+
+Magic-User SpellsEdit
+First-Level Magic-User SpellsEdit
+Burning Hands causes 1 hit point of fire damage per level of the caster. There is no saving throw.
+
+Charm Person changes the target's allegiance in combat so that an opponent will fight for the caster's side. It only affects character types (human, dwarf, etc.).
+
+Detect Magic indicates which equipment or treasure items are magical. After casting the spell, view a character's items list or take treasure items list. The equipment or treasure preceded by an '*' is magical.
+
+Enlarge makes the recipient larger and stronger. The higher the caster's level, the greater the spews effect.
+
+Friends raises the caster's charisma by 2-8 points. It is best cast just before dealing with NPCs.
+
+Magic Missile does 2-5 hit points per missile with no saving throw. A magic-user throws 1 missile for every 2 levels (1 at levels 1-2, 2 at levels 3-4, etc.) This spell damages any single target within its range unless the target is magic resistant or has magical protection such as a shield spell. This spell casts instantaneously.
+
+Protection from Evil improves the AC and saving throws of the target by 2 against attackers of evil alignment.
+
+Read Magic allows a magic-user to ready a scroll and read it. This is identical to having a scroll identified in a shop. After casting read magic, a magic-user may cast any scroll spells or scribe them if they are appropriate for his level.
+
+Shield negates enemy magic missile spells, improves the magic-user's saving throw, and may increase his AC.
+
+Shocking Grasp does 1-8 hit points of electrical damage +1 hit point per level of caster. Sleep puts 1-16 targets (depending on the size of the targets) to sleep with no saving throw. For example, up to sixteen 1 hit-die targets can be affected, while only one 4 hit-die target can be affected. Targets of 5 or more hit-dice are unaffected.
+
+Second-Level Magic-User SpellsEdit
+Detect Invisibility allows the target to spot invisible creatures.
+
+Invisibility makes the target invisible. The THAC0 of melee attacks against invisible targets is reduced by 4, and it is impossible to aim ranged attacks at them. Invisibility is dispelled when the target attacks or casts a spell.
+
+Knock opens locks. The spell will affect both magically and non-magically locked doors, chests, etc.
+
+Mirror Image creates 1-4 illusionary duplicates of the magic-user to draw off attacks. A duplicate disappears when it is attacked.
+
+Ray of Enfeeblement reduces the target's strength by 25% + 2% per level of the caster.
+
+Stinking Cloud paralyzes those in its area of effect for 2-5 rounds. If the target saves, it is not paralyzed but is nauseous and has its AC reduced for 2 rounds.
+
+Strength raises the target's strength by 1-8 points depending on the class of the target.
+
+
+Third-Level Magic-User SpellsEdit
+Blink protects the magic-user. The magic-user 'blinks out' after he acts each round. Although the magic-user may be physically attacked before he acts each round, he may not be attacked after.
+
+Dispel Magic removes the effects of spells that do not have specific counter spells. This is a recuperation spell for any characters that have been held, slowed, or made nauseous.
+
+Fireball is a magical explosion that does l-6 hit points of damage per level of the caster to all targets within its area. If the target makes its saving throw, damage is halved. Fireball is a slow-casting spell, and the spews power demands that you target carefully. Use the CENTER command to determine who will be in the area of effect-indoors, the three squares in each corner will not be affected by the blast if the spell is targeted in the center of the screen. Outdoors, the blast area is slightly smaller.
+
+Haste doubles the target's movement and number of melee attacks per round. Haste has a short duration, so you should wait until a fight is imminent to cast it. Warning: characters age one year each time a haste spell is cast on them.
+
+Hold Person may paralyze targets of character types (human, dwarf, etc.). You may aim a hold person spell at up to 4 targets (use the EXIT command to target fewer).
+
+Invisibility, 10' Radius makes all targets adjacent to the caster invisible. The THAC0 of melee attacks against invisible targets is reduced by 4, and it is impossible to aim ranged attacks at them. Use this spell to set up a battle line while your enemies seek you out. Characters lose invisibility if they do anything but move. Remember: some monsters can see invisible creatures.
+
+Lightning Bolt is a magical, electrical attack that does 1-6 hit points of damage per level of the caster to each target along its path. Damage is halved if the targets make their saving throw. A lightning bolt is 8 squares long in a line away from the caster. For best results, send the bolt down a row of opponents. Lightning bolts also reflect off walls back toward the spellcaster. Targets adjacent or close to a wall may be hit twice by the same bolt.
+
+Protection from Evil, 10' Radius protects the target and all characters adjacent to the target. The spell improves the AC and saving throws of those it protects by 2 against attackers of evil alignment.
+
+Protection from Normal Missiles makes the target immune to non-magical missiles.
+
+Slow affects 1 target per level of caster and halves the target's movement and number of melee attacks per round. Slow can be used to negate a haste spell and only affects the side opposing the spellcaster.
+
+
+Fourth-Level Magic-User SpellsEdit
+Bestow Curse reduces the targets THAC0 and saving throws by 4.
+
+Charm Monster changes the target's allegiance in combat so it fights on the side of the magic-user. The spell will work on most living creatures. The spell affects 2-8 one hit-die targets, 1-4 two hit-die targets, 1-2 three hit-die targets, or 1 target of four or more hit dice.
+
+Confusion affects 2-16 targets, causing them to make a saving throw each round or stand confused, become enraged, flee in terror, or go berserk. Confusion is most effective when used against a large number of enemies.
+
+Dimension Door allows the magic-user to teleport himself to another point on the battlefield within his line of sight and the range of the spell. Magic-users can use it for quick escapes. Fighter/magic-users can use dimension door to reach enemy spellcasters or ranged weapons.
+
+Fear causes all within its area to flee in terror if they fail their saving throws.
+
+Fire Shield protects the magic-user so that any creature who hits the caster in melee does normal damage, but takes twice that damage in return. The shield may be attuned to heat attacks or cold attacks. The magic-user takes half damage (no damage if he makes his saving throw) and has his saving throw from the opposite type of attack improved by 2. He takes double damage from the type of attack the shield is attuned to.
+
+Fumble causes the target to become clumsy and unable to move or attack. If the target makes his saving throw, his attacks and movement are halved.
+
+Ice Storm does 3-30 hit points to all targets within its area. There is no saving throw. This spell will even inflict full damage on opponents protected by resist cold.
+
+Minor Globe of Invulnerability protects the caster from incoming first, second, or third-level spells. The globe is very effective when used in combination with fire shield.
+
+Remove Curse removes the effects of bestow curse and allows the target to unready cursed magic items.
+
+
+Fifth-Level Magic-User SpellsEdit
+Cloud Kill is similar to the stinking cloud spell, except that its area of effect is larger and it kills weaker monsters. More powerful monsters may be immune to the spell.
+
+Cone of Cold unleashes a withering cone-shaped blast of cold. The spell's range and damage increase with the caster's level.
+
+Feeblemind causes targets who fail their saving throw to drop dramatically in intelligence and wisdom and become unable to cast spells. A heal spell must be cast on the victim to recover from the effect.
+
+Fire Touch creates a blazing aura around the recipient. This aura adds 2-12 points of extra fire damage to all of the recipient's attacks.
+
+Hold Monster is similar to hold person, except that it affects a wider variety of creatures.
+
+Iron Skin causes the magic-user's skin to become extremely tough and damage resistant. The magic-user's AC is reduced by four.
+
+Sixth-Level Magic-User SpellsEdit
+Death Spell kills opponents instantly and irrevocably. The spell will slay a greater number of weak opponents than strong.
+
+Disintegrate destroys one target. Some creatures with an innate magic resistance may avoid the effects of the spell, however most must make a saving throw to survive.
+
+Flesh to Stone causes the target to make a saving throw or be turned into stone.
+
+Globe of Invulnerability protects against 1st through 4th level spells.
+
+Stone to Flesh counters the effects of such magical creatures as the medusa or the spell flesh to stone. When this spell is cast on a character, there is a possibility that the character will not survive the shock of being restored to flesh. System shock survival is based on a character's Constitution.
+
+Seventh-Level Magic-User SpellsEdit
+Delayed Blast Fireball is a more powerful version of the third-level spell and will go through a minor globe o( invulnerability.
+
+Mass Invisibility is identical to the invisibility spell, except that it will effect several targets at once. This can be a valuable spell to cast before a known encounter.
+
+Power Word, Stun will cause one creature to be stunned and unable to think or act effectively. The weaker the target, the longer it will be stunned.
+
+
+Eighth-Level Magic-User SpellsEdit
+Mass Charm is similar to the fourth-level spell, except that it affects a much larger number of targets.
+
+Mind Blank is a powerful protective spell that defends the recipient from all spells that attack a character's will, such as charm or feeblemind.
+
+Otto's Irresistible Dance is an enchantment that causes the target to be irresistibly compelled to dance a wild and frenzied jig. The target's AC is reduced by 4 and it will fail all saving throws against magic.
+
+Power Word, Blind strikes a target instantly blind.
+
+
+Ninth-Level Magic-User SpellsEdit
+Meteor Swarm is a very powerful and spectacular spell, similar to a Fireball. When cast, four magical spheres fly from the caster's hand toward the target. Anything in the spell's path receives 10-40 hit points of damage.
+
+Monster Summoning calls forth one or two powerful creatures to fight on the side of the spell magic-user. The creatures disappear after the battle.
+
+Power Word, Kill will instantly slay one or more creatures within the spell's range. The spell affects approximately 120 hit points worth of targets.
