@@ -1,6 +1,14 @@
+description = Bless/n(Conjuration/ Summoning)/n/nLevel: 1/nRange: 6 squares/nDuration: 6 rounds/nCasting Time: 1 round/nArea of Effect: 5x5/nSaving Throw: None/n/nBless improves the THAC0 of friendly characters by 1. Bless cannot affect characters who are adjacent to monsters when the spell is cast, and the spell is not cumulative. This is a good spell to cast before going into combat.
+  
+description = Cause Fear/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDuration: 1 round/level/nCasting Time: 4/nArea of Effect: 1 creature/nSaving Throw: None/AC/n/nCause Fear causes the touched victim to flee in panic at maximum movement speed away from the caster for 1 round per level of the cleric causing such fear.
 
-name = Curse
-description = Curse/n(Conjuration/#Summoning)/n/nLevel: 1/nSphere: All/nRange: Visual range of the caster/nDuration: 6 rounds/nCasting Time: 9/nArea of Effect: 15-ft. radius/nSaving Throw: None/n/nWhen uttering the Curse spell, the caster lowers the morale of enemy creatures and any Saving Throws and attack rolls they make by 1. At the instant the spell is completed, it affects all creatures in a 15-ft. radius centered on the point selected by the caster. Affected creatures leaving the area are still subject to the spell's effect; those entering the area after the casting is completed are not.
+description = Cause Light Wounds/n(Necromantic)/n/nLevel: 1/nRange: Touch/nDuration: Instant/nCasting Time: 5/nArea of Effect: 1 creature/nSaving Throw: None/AC/n/nCause Light Wounds inflicts 1-8 hit points of damage on a target.
+
+description = Command/n(Enchantment/ Charm)/n/nLevel: 1/nSphere: Charm/nRange: 12 squares/nDuration: 1 round/nCasting Time: 1/nArea of Effect: 1 creature/nSaving Throw: Save vs. spell negates/n/nCommand allows the priest to charm a single creature for one round that does not make their save vs. spell.
+
+description = Cure Light Wounds/n(Necromantic)/n/nLevel: 1/nRange: Touch/nDuration: Instant/nCasting Time: 5/nArea of Effect: 1 creature/nSaving Throw: None/n/nCure Light Wounds heals 1-8 hit points, up to the target's normal maximum hit points.
+
+description = Curse/n(Conjuration/ Summoning)/n/nLevel: 1/nSphere: All/nRange: Visual range of the caster/nDuration: 6 rounds/nCasting Time: 9/nArea of Effect: 15-ft. radius/nSaving Throw: None/n/nWhen uttering the Curse spell, the caster lowers the morale of enemy creatures and any Saving Throws and attack rolls they make by 1. At the instant the spell is completed, it affects all creatures in a 15-ft. radius centered on the point selected by the caster. Affected creatures leaving the area are still subject to the spell's effect; those entering the area after the casting is completed are not.
 
 
 \(BEGIN)
