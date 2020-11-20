@@ -12,11 +12,11 @@ description = Cure Light Wounds/n(Necromantic)/n/nLevel: 1/nRange: Touch/nDurati
 
 description = Curse/n(Conjuration/ Summoning)/n/nLevel: 1/nSphere: All/nRange: 6 squares/nDuration: 6 rounds/nCasting Time: 1 round/nArea of Effect: 5x5/nSaving Throw: Save vs. spell negates/n/nCurse reduces the THAC0 of targets by 1. The target cannot be adjacent to a party character or NPC, and effects are not cumulative
 
-description = Darkness/n(School)/n/nLevel: 1/nRange: 12 squares/nDuration: 6 rounds/nCasting Time: 4/nArea of Effect: 1x1/nSaving Throw: None/n/nDarkness envelops a single square or creature with darkness, inflicting penalties if they cannot see in the dark.  
+description = Darkness/n(School)/n/nLevel: 1/nRange: 12 squares/nDuration: 6 rounds/nCasting Time: 4/nArea of Effect: 1x1/nSaving Throw: None/n/nDarkness envelops a single square or creature with darkness, inflicting penalties if if creatures in the area cannot see in the dark. 
 
 description = Detect Magic/n(Divination)/n/nLevel: 1/nRange: Self/nDuration: 10 rounds/nCasting Time: 1 round/nArea of Effect: Self/nSaving Throw: None/n/nDetect Magic indicates which equipment or treasure items are magical. After casting the spell, view a character's items list or take treasure items list. The equipment or treasure preceded by an '*' is magical,
 
-description = Light/n(School)/n/nLevel: 1/nRange: 12 squares/nDuration: 6 rounds/nCasting Time: 4/nArea of Effect: 1x1/nSaving Throw: None/n/nLight envelops a single square or creature with bright light, inflicting penalties if they are sensitive to light.  
+description = Light/n(School)/n/nLevel: 1/nRange: 12 squares/nDuration: 6 rounds/nCasting Time: 4/nArea of Effect: 1x1/nSaving Throw: None/n/nLight envelops a single square or creature with bright light, inflicting penalties if creatures in the area are sensitive to light. 
 
 description = Protection From Evil/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDuration: 3 rounds/level/nCasting Time: 4/nArea of Effect: 1 creature/nSaving Throw: None/n/nProtection from Evil improves the AC and saving throws of the target by 2 against attackers of evil alignment. The effects of the spell are not cumulative.
 
