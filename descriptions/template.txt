@@ -22,104 +22,12 @@ description = Protection From Evil/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDura
 
 description = Protection From Good/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDuration: 3 rounds/level/nCasting Time: 4/nArea of Effect: 1 creature/nSaving Throw: None/n/nProtection from Good improves the AC and saving throws of the target by 2 against attackers of good alignment. The effects of the spell are not cumulative.
 
+description = Remove Fear/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDuration: 1 turn/nCasting Time: 4/nArea of Effect: 1 creature/nSaving Throw: None/n/nThe priest instills courage in the spell's recipient, raising his morale to its highest. The recipients' morale will gradually reset to normal as the spell's duration runs out. If the recipient is affected by magical fear, this is negated.
+
+description = Resist Cold/n(Abjuration)/n/nLevel: 1/nRange: Touch/nDuration: 1 turn/level/nCasting Time: 5/nArea of Effect: 1 creature/nSaving Throw: None/n/nResist Cold halves damage from cold attacks and improves saving throws vs. cold attacks by 3.
+
 //CONTINUE
 
-description = Remove Fear/n(Abjuration)/n/nLevel: 1/nRange: Visual range of the caster/nDuration: 1 turn/nCasting Time: 1/nArea of Effect: 15-ft. radius/nSaving Throw: None/n/nThe priest instills courage in the spell's recipients, raising their morale to its highest. The recipients' morale will gradually reset to normal as the spell's duration runs out. If the recipients are affected by magical fear, this is negated.
-casting sound = sound_Cast.wav
-cast msg = /t gains courage from /c.
-missile sound = none
-coverage sound = none
-hit sound = sound_Hit.wav
-linger sound = none
-cast art = spell_cast_Priest.png,210,2,48,48,0,1,4,1,0,0
-missile art = spell_missile_Priest.png,100,4,48,48,0,1,0,1,0,0
-target cover art = none
-target hit art = none
-target linger art = none
-school = Cleric
-cast by = cleric
-can target friend = yes
-can target enemy = yes
-cumulative = yes
-can memorize = yes
-allow scribe = yes
-auto scribe = yes
-in camp = no
-in combat = yes
-can be dispelled = no
-lingers = no
-linger affects once = no
-save versus = spell
-save result = none
-Special Ability = casterLevel,$cleric$0
-Special Ability = spellRemoveFearCleric
-targeting type = touch
-target quantity = 1
-level = 1
-casting time = 4
-casting time units = initiative
-duration = 10
-duration units = rounds
-target duration = 0
-price = 0
-priority = 500
-spell effect 1 = 
-savingThrowScript = 
-savingThrowSucceededScript = $SET_HOOK_PARAM(5,"/c misses /t.");
-savingThrowFailedScript = 
-begin script = 
-end script = 
-\(END)
-
-\(BEGIN)
-name = Resist Cold
-casting sound = sound_Cast.wav
-cast msg = /t feels warmer.
-missile sound = none
-coverage sound = none
-hit sound = none
-linger sound = none
-cast art = spell_cast_Priest.png,210,2,48,48,0,1,2,1,0,0
-missile art = spell_missile_Priest.png,100,4,48,48,0,1,0,1,0,0
-target cover art = none
-target hit art = none
-target linger art = spell_Linger_ImmunityCold.png,200,2,48,48,0,1,4,1,0,0
-school = Cleric
-cast by = cleric
-can target friend = yes
-can target enemy = yes
-cumulative = no
-can memorize = yes
-allow scribe = yes
-auto scribe = yes
-in camp = no
-in combat = yes
-can be dispelled = yes
-lingers = yes
-linger affects once = yes
-save versus = spell
-save result = none
-Special Ability = DamageMagical,spell
-Special Ability = StandardDisplaySpellEffect
-Special Ability = casterLevel,$cleric$0
-Special Ability = spell_ColdResistant,cleric
-targeting type = touch
-target quantity = 1
-level = 1
-casting time = 5
-casting time units = initiative
-duration = 10*level
-duration units = rounds
-target duration = 0
-price = 0
-priority = 500
-spell effect 1 = none
-savingThrowScript = 
-savingThrowSucceededScript = 
-savingThrowFailedScript = 
-begin script = 
-end script = 
-\(END)
 
 // cleric level 2
 \(BEGIN)
