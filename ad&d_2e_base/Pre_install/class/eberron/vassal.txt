@@ -1,0 +1,11 @@
+\(BEGIN)
+name = Vassal of the Host
+HitDiceBonus = Vassal of the Host //is this okay?
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Baseclass = cleric
+//CONTINUE - give protection from evil and cure light wounds 1x/day each
+Special Ability = ChangeClassCleric
+Special Ability = class_baseName,$cleric
+\(END)
